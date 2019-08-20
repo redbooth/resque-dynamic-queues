@@ -28,6 +28,4 @@ Gem::Specification.new do |s|
 
   # Needed for testing newer resque on ruby 1.8.7
   s.add_development_dependency('json')
-
 end
-
