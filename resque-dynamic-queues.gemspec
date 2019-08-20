@@ -4,7 +4,7 @@ require 'resque/plugins/dynamic_queues/version'
 
 
 Gem::Specification.new do |s|
-  s.name        = "resque-dynamic-queues"
+  s.name        = "resque_dynamic_queues"
   s.version     = Resque::Plugins::DynamicQueues::VERSION
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Matt Conway"]
